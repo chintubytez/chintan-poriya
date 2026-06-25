@@ -1,8 +1,6 @@
 # 👋 Hey, I'm Chintan Poriya
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chintan%20Poriya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chintan-poriya)
-[![Website](https://img.shields.io/badge/Website-byteztech.com-orange?style=flat-square&logo=google-chrome)](https://byteztech.com)
-[![YouTube](https://img.shields.io/badge/YouTube-BytezTech-red?style=flat-square&logo=youtube)](https://www.youtube.com/@byteztech)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/chintanporiya)
 
 ---
