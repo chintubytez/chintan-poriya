@@ -9,7 +9,7 @@
 
 ## 🚀 Who I Am
 
-I'm a **Senior AI & Full-Stack Developer** based in Surat, India — available for freelance and contract work worldwide.
+I'm a **Senior AI & Full-Stack Developer** based in India — available for freelance and contract work worldwide.
 
 I specialize in building **production-ready AI systems and mobile applications** — not experiments, not MVPs that break in 2 months — real deployed systems that handle real workloads.
 
