@@ -132,6 +132,7 @@ Automated appointment scheduling powered by AI — integrated with Google Calend
 
 | Workflow | Description |
 |---|---|
+| [Whatsapp Automation](https://n8n.io/workflows/13506-build-a-whatsapp-ai-shopping-bot-with-virtual-try-on-using-gemini-and-gpt/) | WhatsApp API, Virtual try on, Automation, Order Management |
 | [Appointment Booking](https://n8n.io/workflows/13905-schedule-and-manage-appointments-with-groq-google-calendar-gmail-and-sheets/) | AI scheduling with Groq, Google Calendar, Gmail & Sheets |
 | [FAQ Sync to Pinecone](https://n8n.io/workflows/16352-sync-website-faqs-to-pinecone-weekly-with-gpt-4o-and-openai-embeddings/) | Weekly website FAQ sync to vector DB using GPT-4o embeddings |
 | [Daily Standup Automation](https://n8n.io/workflows/13505-automate-daily-standups-using-slack-notion-and-redis/) | Auto-generate standups via Slack, Notion & Redis |
